@@ -27,7 +27,7 @@ You can access the deployed web map here:
 ├── data/ # Exported GeoJSON layers
 ├── css/ # Stylesheets
 ├── js/ # JavaScript libraries and configs
-└── images/ # Supporting images/icons
+├── images/ # Supporting images/icons
 
 
 ---

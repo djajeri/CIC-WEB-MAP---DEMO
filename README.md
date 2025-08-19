@@ -73,5 +73,5 @@ To update or add new layers to the CIC Web Map:
 ---
 
 ## 👤 Author
-Developed by **CIC Team**  
-Deployed and maintained by **Brian Dika (djajeri)**  
+Developed by **Data Processing Team**  
+Deployed and maintained by **Brian Dika (bcahya)**  

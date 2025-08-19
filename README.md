@@ -16,7 +16,7 @@ You can access the deployed web map here:
 ## ⚙️ Technical Overview
 - **GIS Platform**: [QGIS](https://qgis.org)  
 - **Export Tool**: [qgis2web](https://github.com/tomchadwin/qgis2web)  
-- **Frameworks**: Leaflet / OpenLayers (depending on export configuration)  
+- **Frameworks**: OpenLayers
 - **Deployment**: [GitHub Pages](https://pages.github.com/)  
 - **Data Format**: GeoJSON, HTML, CSS, JavaScript  
 
